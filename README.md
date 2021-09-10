@@ -13,4 +13,7 @@ Companies use predictive modeling to forecast events, customer behavior, as well
 Wikipedia resource: 
   - https://en.wikipedia.org/wiki/Predictive_modelling
 
-##### The projects included in this repository are examples of Predictive Modeling.
+### The projects included in this repository are examples of Predictive Modeling.
+- [predictive_analytics - r_squared_evaluation](https://github.com/manuelmusngi/predictive_modeling/blob/master/predictive_analytics%20-%20r_squared_evaluation.ipynb)
+- [predictive_modeling-evaluation-metrics](https://github.com/manuelmusngi/predictive_modeling/blob/master/predictive_modeling-evaluation-metrics.ipynb)
+- [predictive_modeling-regression](https://github.com/manuelmusngi/predictive_modeling/blob/master/predictive_modeling-regression.ipynb)
